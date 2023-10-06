@@ -21,9 +21,3 @@ Python 3.7.10 (w/ TensorFlow 2.3.0)
 ## Inspiration
 
 This project is inspired by the Coursera Project Network.
-
-
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
